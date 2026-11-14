@@ -1,0 +1,14 @@
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+
+# OneDrive conflict copies
+*-DESKTOP-*.*
+
+# # Build output / dependencies (add as your project grows)
+# node_modules/
+# dist/
+# build/
+# *.log
