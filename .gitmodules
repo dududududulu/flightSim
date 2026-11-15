@@ -1,0 +1,4 @@
+[submodule "external/fgdata"]
+	path = external/fgdata
+	url = https://gitlab.com/flightgear/fgdata.git
+	shallow = true
