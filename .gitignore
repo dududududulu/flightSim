@@ -7,9 +7,4 @@ desktop.ini
 # OneDrive conflict copies
 *-DESKTOP-*.*
 
-# # Build output / dependencies (add as your project grows)
-# node_modules/
-# dist/
-# build/
-# *.log
-
+# Build output / dependencies (add as your project grows)
